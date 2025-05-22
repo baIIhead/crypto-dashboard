@@ -17,3 +17,9 @@ requests
 matplotlib
 numpy
 
+## donations
+I'm broke
+SOL: 3MjyCaVyWdA4i6qVe2pdbKWwohvUjGvwPCpHiaqBVBTP
+BTC: bc1q7ycwvj3g03drlvtufzx5cdafqnza9e8mx8l58c
+ETH: 0x7e70D62863d65C8673098761D68B1C688210D539
+XMR:43cZmNKQaffaEQEwvHQC2kHYmcoDuYHbj5QJ6TUWqYWtGd5i8qcqRBdQqDZNjwW8CMgecwsqtwHqK8YiaxAMBFHsDBttsuj
