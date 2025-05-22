@@ -12,11 +12,8 @@ This bot is for educational purposes only. It does NOT guarantee any profits. Us
 - Prints buy/sell signals based on SMA crossover  
 
 ## Requirements
+Python 3.7+  
+requests
+matplotlib
+numpy
 
-- Python 3.7+  
-- Requests library  
-
-## Installation
-
-```bash
-pip install -r requirements.txt
